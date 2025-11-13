@@ -54,3 +54,5 @@ ab.dir.esq = new No<string>('E');
 ab.dir.dir = new No<string>('G');
 
 ordem_sim(ab);
+
+console.log("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
